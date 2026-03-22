@@ -1,6 +1,6 @@
 # terraform-provider-utilities
-[![terraform-provider-test](https://github.com/dangernoodle-io/terraform-provider-utilities/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/dangernoodle-io/terraform-provider-utilities/actions/workflows/test.yml)
-[![terraform-provider-release](https://github.com/dangernoodle-io/terraform-provider-utilities/actions/workflows/release.yml/badge.svg)](https://github.com/dangernoodle-io/terraform-provider-utilities/actions/workflows/release.yml)
+[![provider-test](https://github.com/dangernoodle-io/terraform-provider-utilities/actions/workflows/provider-test.yml/badge.svg?branch=main)](https://github.com/dangernoodle-io/terraform-provider-utilities/actions/workflows/test.yml)
+[![provider-release](https://github.com/dangernoodle-io/terraform-provider-utilities/actions/workflows/provider-release.yml/badge.svg)](https://github.com/dangernoodle-io/terraform-provider-utilities/actions/workflows/release.yml)
 [![GitHub Release](https://img.shields.io/github/v/release/dangernoodle-io/terraform-provider-utilities)](https://github.com/dangernoodle-io/terraform-provider-utilities/releases/latest)
 [![Coverage Status](https://coveralls.io/repos/github/dangernoodle-io/terraform-provider-utilities/badge.svg?branch=main)](https://coveralls.io/github/dangernoodle-io/terraform-provider-utilities?branch=main)
 [![Terraform Registry](https://img.shields.io/badge/Terraform%20Registry-dangernoodle--io%2Futilities-7B42BC?logo=terraform)](https://registry.terraform.io/providers/dangernoodle-io/utilities/latest/docs)

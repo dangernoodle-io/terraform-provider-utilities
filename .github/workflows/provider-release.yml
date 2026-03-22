@@ -1,4 +1,4 @@
-name: terraform-provider-release
+name: provider-release
 
 on:
   push:
