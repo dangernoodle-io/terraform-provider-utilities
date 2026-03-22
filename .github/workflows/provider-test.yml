@@ -1,4 +1,4 @@
-name: terraform-provider-test
+name: provider-test
 
 on:
   pull_request:
