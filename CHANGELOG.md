@@ -1,5 +1,4 @@
-## 0.1.0 (Unreleased)
+# Changelog
 
-FEATURES:
-
-- `shake128` function: Generate SHAKE-128 hashes with configurable output length.
+- **0.1.0** (2026.03.22)
+  - Initial release
